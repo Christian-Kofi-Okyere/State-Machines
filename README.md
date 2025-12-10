@@ -88,18 +88,6 @@ Important: do not edit the `reaction.bdf` or `reactionExtension.bdf` port defini
 
 This repo currently contains the source files listed in the Contents section. This README was added to help document the project.
 
-## License
-
-Specify a license for this project. If you want a permissive license, consider MIT. If you prefer otherwise, I can add an appropriate LICENSE file.
-
 ## Author
 
 Christian Okyere
-
----
-
-If you want, I can:
-- Add a minimal VHDL testbench for `timer` and `timerExtension` and run a quick simulation with GHDL; or
-- Add a top-level wrapper and example Quartus pin assignments for a specific board (tell me which board you target).
-
-Tell me which follow-up you'd like and I will implement it next.
